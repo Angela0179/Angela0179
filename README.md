@@ -1,6 +1,6 @@
 - 👋 Hi, I’m ANGELA UCHECHI NNECHI
 - 👀 I’m interested in Frontend Engineering
-- 🌱 I’m currently learning Vephla university
+- 🌱 I’m currently learning  at Vephla university
 - 💞️ I’m looking to collaborate on both web and mobile project , with UI/UX designers , data analyst and Backend Engineers.
 - 📫 You can reach me on 08133968174
 - 😄 Pronouns: Her
